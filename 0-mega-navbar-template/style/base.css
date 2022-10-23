@@ -5338,7 +5338,7 @@ ul.template-widget-list
 						position:static;
 						background-repeat:no-repeat;
 						background-position:0px 0px;
-						background-image:url('../media/others/menu_icon.png');
+						background-image:url('../media/menu_icon.png');
 					}
 
 					.template-component-menu-responsive>ul>li>a:hover>span
