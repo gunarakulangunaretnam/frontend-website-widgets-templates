@@ -10,7 +10,7 @@ This widgets snippets could be easliy copied and used for frontend development p
 
 ## Widgets Templates
 
-1. [Maga Navbar Template](0-0-mega-navbar-template/)
+1. [Maga Navbar Template](0-mega-navbar-template/)
 
 ## Social Media Links
 
