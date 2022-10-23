@@ -281,7 +281,7 @@ textarea
 .brand_color_orange
 {
 	font-weight: bold;
-	color: #FE6500;
+	color: #262525;
 }
 
 /******************************************************************************/
@@ -493,7 +493,7 @@ textarea,
 	.tp-caption.tp-font-handlee,
 	.template-widget-menu ul>li>a:hover
 	{
-		color:#FE6500;
+		color:#262525;
 	}
 
 	.template-footer .template-footer-top,
@@ -655,13 +655,13 @@ textarea,
 	.template-widget-category.template-widget-category-style-1>ul>li>a:hover,
 	.template-widget-tag>ul>li>a:hover
 	{
-		background-color:#FE6500;
+		background-color:#262525;
 	}
 
 	.tp-leftarrow:hover,
 	.tp-rightarrow:hover
 	{
-		background-color:#FE6500 !important;
+		background-color:#262525 !important;
 	}
 
 	.template-background-color-1,
@@ -867,22 +867,22 @@ textarea,
 	.template-component-tab>.ui-tabs-nav>li.ui-state-active>span,
 	.template-component-twitter-user-timeline ul>li>i
 	{
-		border-color:#FE6500;
+		border-color:#262525;
 	}
 
 	.tp-bullets .tp-bullet
 	{
-		border-color:#FE6500 !important;
+		border-color:#262525 !important;
 	}
 
 	.template-content-layout-sidebar-right .template-widget-menu ul>li>a:hover
 	{
-		border-left-color:#FE6500;
+		border-left-color:#262525;
 	}
 
 	.template-content-layout-sidebar-left .template-widget-menu ul>li>a:hover
 	{
-		border-right-color:#FE6500;
+		border-right-color:#262525;
 	}
 
 	.template-pagination.template-pagination-style-1 a:hover,
