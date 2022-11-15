@@ -11,6 +11,7 @@ This widgets snippets could be easliy copied and used for frontend development p
 ## Widgets Templates
 
 1. [Maga Navbar Template](0-mega-navbar-template/)
+2. [Dashboard Toggleable Sidebar Template](1-dashboard-toggleable-sidebar)
 
 ## Social Media Links
 
