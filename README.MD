@@ -12,6 +12,7 @@ This widgets snippets could be easliy copied and used for frontend development p
 
 1. [Maga Navbar Template](0-mega-navbar-template/)
 2. [Dashboard Toggleable Sidebar Template](1-dashboard-toggleable-sidebar)
+3. [Dashboard Template AI Customer Analyzer](2-dashboard-template-ai-customer-analyzer)
 
 ## Social Media Links
 
