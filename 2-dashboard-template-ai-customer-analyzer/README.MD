@@ -22,14 +22,14 @@ Other features of the dashboard template include a user-friendly interface, easy
 
 ![Banner Image](github-readme-contents/homepage-2.jpg)
 
-### Vision Date Page
+### Vision Data Page
 
 ![Banner Image](github-readme-contents/vision-data-page.jpg)
 
-### Audio Date Page
+### Audio Data Page
 
 ![Banner Image](github-readme-contents/audio-data-page.jpg)
 
-### Audio Date Page
+### Settings Page
 
 ![Banner Image](github-readme-contents/settings-page.jpg)
