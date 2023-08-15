@@ -14,10 +14,12 @@ This widgets snippets could be easliy copied and used for frontend development p
 2. [Dashboard Toggleable Sidebar Template](1-dashboard-toggleable-sidebar)
 3. [Dashboard Template AI Customer Analyzer](2-dashboard-template-ai-customer-analyzer)
 
-## Social Media Links
+## Social Links
 
-- [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
-- [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
-- [Twitter Profile](https://twitter.com/gunarakulan)
-- [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
-- [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
+* [Facebook Profile](https://www.facebook.com/gunarakulangr.page)
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
+* [Twitter Profile ](https://twitter.com/gunarakulangr)
+* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
+* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
+* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
