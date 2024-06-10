@@ -1,4 +1,4 @@
-# FRONTEND WEBSITE WIDGETS TEMPLATES
+# Frontend Website Widgets Templates
 
 ## Introduction
 
@@ -14,7 +14,7 @@ This widget snippet could be easily copied and used for frontend development pur
 2. [Dashboard Toggleable Sidebar Template](1-dashboard-toggleable-sidebar)
 3. [Dashboard Template AI Customer Analyzer](2-dashboard-template-ai-customer-analyzer)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
